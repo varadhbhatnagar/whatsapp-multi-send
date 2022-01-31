@@ -9,3 +9,7 @@
    (wait for "Good to go!" on terminal before proceeding)
 7. UI available at `http://127.0.0.1:5000/home`
 8. Monitor terminal for logs.
+
+### Note
+
+1. Affix 91 to every number before submitting form. Example: 919876543210.
