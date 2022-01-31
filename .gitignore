@@ -18,7 +18,6 @@ _mailinglist
 .idea/
 docs/_build/
 .vscode
-logs/
 *.log
 
 # Coverage reports
